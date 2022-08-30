@@ -1,5 +1,5 @@
-﻿// Caesar cipher
-string alphabet = " abcdefghijklmnopqrstuvwxyz";
+﻿// Caesar cipher decode
+string alphabet = " abcdefghijklmnopqrstuvwxyz";    // leading space symbol is important!
 int shift = 10;
 
 string phraseIn = "rovvyjfyavn";
